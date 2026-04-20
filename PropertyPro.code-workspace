@@ -1,0 +1,25 @@
+{
+  "folders": [
+    {
+      "name": "Mobile App",
+      "path": "mobile-app"
+    },
+    {
+      "name": "Backend",
+      "path": "backend"
+    },
+    {
+      "name": "Data",
+      "path": "data"
+    },
+    {
+      "name": "Docs",
+      "path": "docs"
+    }
+  ],
+  "settings": {
+    "python.defaultInterpreterPath": "C:/Users/marwa/PropertyPro/backend/venv/Scripts/python.exe",
+    "python.terminal.activateEnvironment": true,
+    "editor.formatOnSave": true
+  }
+}
