@@ -30,7 +30,8 @@ propertypro/
 └── chroma_db/            # generated locally (see Step 5)
 ```
 
-> The `data/processed/`, `data/embeddings/`, and `chroma_db/` directories are not committed to the repository due to file size. They are provided as a separate download — see the submission notes for the link.
+> The `data/processed/`, `data/embeddings/`, and `chroma_db/` directories are not committed to the repository due to file size. They are provided as a separate download here: https://drive.google.com/file/d/1JEooI4fxwm0nF9ZqUE-TeFwNW1tkddXi/view?usp=sharing
+> 
 
 ---
 
